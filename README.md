@@ -35,4 +35,4 @@ As of 2022, The National UFO Reporting Center has processed over 150,000 reports
 For the data analysis, I loaded the dataset into Excel.
 I analyzed and created visualization charts in Excel.
 I created a slide deck using Powerpoint to communicate my findings.
-You can check it out at ...
+You can check it my analyis by clicking on the Excel file or Powerpoint file.
